@@ -1,0 +1,10 @@
+/build
+.settings/
+
+
+### Web ###
+*.js
+*.js.map
+*.htm
+*.html
+*.ico
